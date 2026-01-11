@@ -169,8 +169,8 @@ This initiative empowers users to access reliable, governed knowledge through a 
 
 ## 👤 Author
 
-Sarthak Gupta
-📧 sarthakgupta1723@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/sarthak-gupta-cloudengineer
+*Sarthak Gupta*
+📧 *sarthakgupta1723@gmail.com*
+🔗 *LinkedIn: www.linkedin.com/in/sarthak-gupta-cloudengineer*
 
 
