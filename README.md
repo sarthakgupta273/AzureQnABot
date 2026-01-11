@@ -169,8 +169,9 @@ This initiative empowers users to access reliable, governed knowledge through a 
 
 ## 👤 Author
 
-**Navkirat Singh**  
-📧 *navkirats18@gmail.com*  
+**Sarthak Gupta**  
+📧 *sarthakgupta1723@gmail.com*
+    *www.linkedin.com/in/sarthak-gupta-cloudengineer*
 
 
 
